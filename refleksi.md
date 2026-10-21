@@ -1,0 +1,7 @@
+## 6. Refleksi
+
+Menurut saya, platform yang paling menarik untuk dipelajari adalah platform Mobile karena saat ini banyak aktivitas dilakukan melalui smartphone. Aplikasi Mobile dapat digunakan untuk berbagai kebutuhan, seperti komunikasi, pendidikan, transaksi, dan hiburan. Selain itu, pengembangan aplikasi Mobile memungkinkan saya mempelajari cara membuat aplikasi yang praktis dan dapat memanfaatkan fitur perangkat, seperti kamera, GPS, dan notifikasi. Saya berharap dapat memahami proses pembuatan aplikasi Android secara bertahap melalui mata kuliah Pemrograman Berbasis Platform.
+
+Tantangan terbesar yang saya hadapi saat melakukan setup environment adalah memastikan semua tools yang dibutuhkan sudah terinstal dan dapat digunakan dengan benar. Beberapa tools, seperti Git, Node.js, Java JDK, dan Android Studio, memiliki fungsi serta proses instalasi yang berbeda. Saya juga perlu memahami penggunaan terminal untuk memeriksa versi tools dan menjalankan perintah Git. Ketika melakukan commit, saya menemukan kendala karena identitas nama dan email Git belum dikonfigurasi.
+
+Untuk mengatasi tantangan tersebut, saya akan mempelajari kembali langkah-langkah instalasi melalui dokumentasi resmi, mengikuti tutorial yang sesuai, serta memeriksa setiap pesan error yang muncul. Saya juga akan berlatih menggunakan terminal dan Git secara bertahap agar lebih terbiasa. Dengan cara tersebut, saya berharap dapat menyiapkan lingkungan pengembangan dengan baik dan menyelesaikan tugas pemrograman berikutnya secara lebih mandiri.
